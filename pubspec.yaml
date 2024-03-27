@@ -1,0 +1,24 @@
+name: tugas6_1lx
+version: 1.0.0+1
+publish_to: none
+description: A new Flutter project.
+environment: 
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies: 
+  cupertino_icons: ^1.0.6
+  get: ^4.6.6
+  flutter: 
+    sdk: flutter
+  flutter_local_notifications: ^17.0.0
+  flutter_native_timezone: ^2.0.0
+  sqflite: ^2.3.2
+
+dev_dependencies: 
+  flutter_lints: ^3.0.0
+  flutter_test: 
+    sdk: flutter
+
+flutter: 
+  uses-material-design: true
+
